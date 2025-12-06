@@ -15,7 +15,7 @@ Figma • Tailwind CSS • Bootstrap • Blade Components • Mailcoach • UI/U
 
 💞️ Open to collaborating on Figma UI kits, Tailwind/Bootstrap templates, Blade component systems
 
-📫 Contact: add your email or Upwork link
+📫 Contact: [Upwork link](https://www.upwork.com/freelancers/~010996ee1df81899c3)
 
 ⚡ Fun fact: I turn Figma designs into pixel-perfect code fast!
 <br>
