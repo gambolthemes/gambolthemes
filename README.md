@@ -18,8 +18,9 @@ Figma • Tailwind CSS • Bootstrap • Blade Components • Mailcoach • UI/U
 📫 Contact: add your email or Upwork link
 
 ⚡ Fun fact: I turn Figma designs into pixel-perfect code fast!
-
 <br>
+<br>
+
 ## 🚀 Tech & Tools
 <br>
 <p align="left"> <img src="https://img.shields.io/badge/Figma-fe696a?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-d45253?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff9f9e?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Blade_Components-fe696a?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Mailcoach-d45253?style=for-the-badge&logo=mailchimp&logoColor=white" /> </p>
