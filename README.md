@@ -17,6 +17,8 @@ Figma • Tailwind CSS • Bootstrap • Blade Components • Mailcoach • UI/U
 
 📫 Contact: [Upwork link](https://www.upwork.com/freelancers/~010996ee1df81899c3)
 
+🚀 Resume: [CV link](https://jogindersingh.gambolthemes.net/) 
+
 ⚡ Fun fact: I turn Figma designs into pixel-perfect code fast!
 <br>
 <br>
